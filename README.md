@@ -16,3 +16,7 @@ Routes of Hakodate Bus Corporation
 + Hakodate-Airport-loop-line 空港循環線
   - flying-fishGoryokakuHanazonoforHakodateAirport.json とびっこ五稜郭・花園経由函館空港行き
   - flying-fishHanazonoGoryokakuforHakodateAirport.json とびっこ花園・五稜郭経由函館空港行き
++ HiyoshiIsaribi-line 日吉漁火線
+  - 6forHakodateStation.json 6系統函館駅前行き
+  - 6forHiyoshiBusOffice.json 6系統日吉営業所前行き
+  
