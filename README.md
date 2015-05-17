@@ -13,3 +13,6 @@ Routes of Hakodate Bus Corporation
 + BeloCoast-line 下海岸線
   - 7forBelowHaragi.json 7系統下原木行き
   - 7forHakodateBusCenter.json 7系統函館バスセンター前行き
++ Hakodate-Airport-loop-line 空港循環線
+  - flying-fishGoryokakuHanazonoforHakodateAirport.json とびっこ五稜郭・花園経由函館空港行き
+  - flying-fishHanazonoGoryokakuforHakodateAirport.json とびっこ花園・五稜郭経由函館空港行き
