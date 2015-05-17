@@ -19,4 +19,6 @@ Routes of Hakodate Bus Corporation
 + HiyoshiIsaribi-line 日吉漁火線
   - 6forHakodateStation.json 6系統函館駅前行き
   - 6forHiyoshiBusOffice.json 6系統日吉営業所前行き
-  
++ Jinkawa-Kaji-line 陣川・鍛冶線
+  - 6-2forHakodateBusCenter.json 6-2系統バスセンター行き
+  - 6-2forKamiJinkawa.json 6-2系統上陣川行き
