@@ -22,3 +22,6 @@ Routes of Hakodate Bus Corporation
 + Jinkawa-Kaji-line 陣川・鍛冶線
   - 6-2forHakodateBusCenter.json 6-2系統バスセンター行き
   - 6-2forKamiJinkawa.json 6-2系統上陣川行き
++ Kaji-AsahiokaHousingComplex-line 鍛冶・旭岡団地線
+  - 10-6forAsahiokaHousingComplex.json 10-6系統旭岡団地行き
+  - 10-6forShowaBusTerminal.json 10-6系統昭和ターミナル行き
