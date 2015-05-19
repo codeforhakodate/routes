@@ -1,4 +1,4 @@
-# routes
+# Routes
 Routes of Hakodate Bus Corporation
 
 # Directories and files
