@@ -25,3 +25,11 @@ Routes of Hakodate Bus Corporation
 + Kaji-AsahiokaHousingComplex-line 鍛冶・旭岡団地線
   - 10-6forAsahiokaHousingComplex.json 10-6系統旭岡団地行き
   - 10-6forShowaBusTerminal.json 10-6系統昭和ターミナル行き
++ Kaji-Toka-loop-line 鍛冶・桐花循環線
+  - 106RyohokuforHakodateStation.json 106系統(稜北)函館駅前行き
+  - 106RyohokuforHokkaidoHakodateRyohokuSeniorHighSchool.json 106系統(稜北)北海道函館稜北高等学校行き
+  - 106forHakodateStation.json 106系統函館駅前行き
+  - 106forShowaBusOffice.json 106系統昭和営業所前行き
+  - 27forHakodateStation.json 27系統函館駅前行き
+  - 27forShowaBusOffice.json 27系統昭和営業所前行き
+  - loopforHakodateStation.json ループ函館駅前行き
