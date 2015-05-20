@@ -46,3 +46,6 @@ Routes of Hakodate Bus Corporation
   - 81forTomikawaHall.json 81系統富川会館前行き
 + Kikyo-Mihara-line 桔梗・美原線
   - 35forShowaBusTerminal.json 35系統昭和ターミナル行き
++ Taya-Ishikawa-line 田家・石川線
+  - 4forHakodateStation.json 4系統函館駅前行き
+  - 4forShowaBusTerminal.json 4系統昭和ターミナル行き
