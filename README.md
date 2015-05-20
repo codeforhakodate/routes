@@ -34,3 +34,13 @@ Routes of Hakodate Bus Corporation
   - 27forShowaBusOffice.json 27系統昭和営業所前行き
   - loopKamedaBranchOfficeShowaElementarySchoolforHakodateStation.json ループ亀田支所前・昭和小学校前経由函館駅前行き
   - loopShowaElementarySchoolKamedaBranchOffice.json ループ昭和小学校前・亀田支所前経由函館駅前行き
++ Kamiso-Kikonai-line 上磯・木古内線
+  - 101forHakodateBusCenter.json 101系統函館バスセンター行き
+  - 101forMoheji.json 101系統茂辺地行き
+  - 11forTomikawaHall.json 11系統富川会館前行き
+  - 11forYunokawaHousingComplexCentral.json 11系統湯川団地中央行き
+  - 151forHakodateBusCenter.json 151系統函館バスセンター行き
+  - 151forTomikawaHall.json 151系統富川会館前行き
+  - 81RyohokuforTomikawaHall.json 81系統(稜北)富川会館前行き
+  - 81forShowaBusTerminal.json 81系統昭和ターミナル行き
+  - 81forTomikawaHall.json 81系統富川会館前行き
