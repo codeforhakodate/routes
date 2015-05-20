@@ -32,3 +32,5 @@ Routes of Hakodate Bus Corporation
   - 106forShowaBusOffice.json 106系統昭和営業所前行き
   - 27forHakodateStation.json 27系統函館駅前行き
   - 27forShowaBusOffice.json 27系統昭和営業所前行き
+  - loopKamedaBranchOfficeShowaElementarySchoolforHakodateStation.json ループ亀田支所前・昭和小学校前経由函館駅前行き
+  - loopShowaElementarySchoolKamedaBranchOffice.json ループ昭和小学校前・亀田支所前経由函館駅前行き
