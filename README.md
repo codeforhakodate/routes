@@ -49,3 +49,14 @@ Routes of Hakodate Bus Corporation
 + Taya-Ishikawa-line 田家・石川線
   - 4forHakodateStation.json 4系統函館駅前行き
   - 4forShowaBusTerminal.json 4系統昭和ターミナル行き
++ Tomioka-Miharadai-Okawa-line 富岡・美原台・大川線
+  - 130forHakodateBusCenter.json 130系統函館バスセンター行き
+  - 130forNanaeNewHospital.json 130系統ななえ新病院行き
+  - 5-1forHakodateStation.json 5-1系統函館駅前行き
+  - 5-1forShowaBusTerminal.json 5-1系統昭和ターミナル行き
+  - 52forHakodateTaxOfficeFront.json 52系統函館税務署入口行き
+  - 52forShowaBusTerminal.json 52系統昭和ターミナル行き
+  - 9-3NanaeSeniorHighSchoolforHakodateUniversity.json 9-3系統七飯高校経由函館大学前行き
+  - 9-3NanaeSeniorHighSchoolforNanaeNewHospital.json 9-3系統七飯高校経由ななえ新病院行き
+  - 9-3forHakodateUniversity.json 9-3系統函館大学前行き
+  - 9-3forNanaeNewHospital.json 9-3系統ななえ新病院行き
