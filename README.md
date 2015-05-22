@@ -66,3 +66,6 @@ Routes of Hakodate Bus Corporation
 + Yamanote-Showa-line 山の手・昭和線
   - 92forCityofHakodateHospital.json 92系統市立函館病院行き
   - 92forYamanoteHousingComplex.json 92系統山の手団地行き
++ Mihara-Yachigashira-line 美原・谷地頭線
+  - 53forShowaBusOffice.json 53系統昭和営業所前行き 
+  - 53forYachigashiraSpa.json 53系統谷地頭温泉行き
