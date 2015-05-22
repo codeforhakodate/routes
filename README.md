@@ -60,3 +60,6 @@ Routes of Hakodate Bus Corporation
   - 9-3NanaeSeniorHighSchoolforNanaeNewHospital.json 9-3系統七飯高校経由ななえ新病院行き
   - 9-3forHakodateUniversity.json 9-3系統函館大学前行き
   - 9-3forNanaeNewHospital.json 9-3系統ななえ新病院行き
++ Goryokaku-AsahiokaHousingComplex-line 五稜郭・旭岡団地線
+  - 112forAsahiokaHousingComplex.json 112系統旭岡団地行き
+  - 112forShowaBusTerminal.json 112系統昭和ターミナル行き
