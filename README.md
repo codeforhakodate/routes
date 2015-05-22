@@ -63,3 +63,6 @@ Routes of Hakodate Bus Corporation
 + Goryokaku-AsahiokaHousingComplex-line 五稜郭・旭岡団地線
   - 112forAsahiokaHousingComplex.json 112系統旭岡団地行き
   - 112forShowaBusTerminal.json 112系統昭和ターミナル行き
++ Yamanote-Showa-line 山の手・昭和線
+  - 92forCityofHakodateHospital.json 92系統市立函館病院行き
+  - 92forYamanoteHousingComplex.json 92系統山の手団地行き
