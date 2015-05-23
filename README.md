@@ -69,3 +69,14 @@ Routes of Hakodate Bus Corporation
 + Mihara-Yachigashira-line 美原・谷地頭線
   - 53forShowaBusOffice.json 53系統昭和営業所前行き 
   - 53forYachigashiraSpa.json 53系統谷地頭温泉行き
++ Ono-Esashi-line 大野・江差線
+  - 122forHakodateBusCenter.json 122系統バスセンター行き
+  - 122forOnoStation.json 122系統大野駅前行き
+  - 21forOnoStation.json 21系統大野駅前行き
+  - 21forShowaBusTerminal.json 21系統昭和ターミナル行き
+  - 25forHakodateBusCenter.json 25系統バスセンター行き
+  - 25forOnoStation.json 25系統大野駅前行き
+  - 2OnoforHakodateBusCenter.json 2系統大野駅前発バスセンター行き
+  - 2forHakodateBusCenter.json 2系統バスセンター行き
+  - 2forOnoStation.json 2系統大野駅前行き
+  - 2forPassBellow.json 2系統峠下行き
